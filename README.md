@@ -257,7 +257,7 @@ If none of the four options are used, then gitleaks will use the default config.
 
 ## Configuration
 
-Gitleaks offers a configuration format you can follow to write your own secret detection rules:
+Gitleaks offers a configuration format you can follow to write your own secret detection rules :
 
 ```toml
 # Title for the gitleaks configuration file.
