@@ -280,6 +280,7 @@ title = "Custom Gitleaks configuration"
 #    together multiple configuration files to a depth of 2. Allowlist arrays are
 #    appended and can contain duplicates.
 
+
 # useDefault and path can NOT be used at the same time. Choose one.
 [extend]
 # useDefault will extend the default gitleaks config built in to the binary
